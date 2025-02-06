@@ -38,7 +38,7 @@ The objective of this project is to build a **robust WordPress deployment** that
 ![AWS Architecture](https://github.com/user-attachments/assets/9e8cc424-cedd-4d64-9782-5ede7bb1aecd)  
 
 ### **Target Architecture (Work in Progress):**  
-![AWS Target Architecture](https://github.com/user-attachments/assets/a00df926-86e5-4238-832e-3943f1573028)  
+![Topology drawio (1)](https://github.com/user-attachments/assets/e93c0810-26eb-406b-ba33-e3ca56458927)
 
 ---
 
