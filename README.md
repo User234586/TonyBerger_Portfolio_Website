@@ -40,23 +40,6 @@ The objective of this project is to build a **robust WordPress deployment** that
 
 ---
 
-## 🏗️ Tech Stack & AWS Services  
-
-| Category               | Technology / Service        |
-|------------------------|---------------------------|
-| **Web Application**    | WordPress                 |
-| **Compute**            | AWS EC2 (Auto Scaling)    |
-| **Load Balancer**      | AWS Application Load Balancer (ALB) |
-| **Database**          | Amazon RDS (MySQL)   |
-| **Storage**            | Amazon S3 (Media & Static Assets) |
-| **Infrastructure as Code** | Terraform   |
-| **Security**           | IAM, VPC, Security Groups |
-| **DNS & CDN**         | Route 53, CloudFront (Planned) |
-| **Monitoring**         | AWS CloudWatch (Planned) |
-| **Automation**         | AWS Lambda, SNS (Planned) |
-
----
-
 ## 🚀 Deployment  
 
 ### ** Prerequisites**  
