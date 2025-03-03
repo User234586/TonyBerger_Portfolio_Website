@@ -96,11 +96,9 @@ Ensure you have the following before deploying:
 
 #### **Phase 3: Infrastructure as Code (Terraform)**  
 1. **Write Terraform scripts** to provision the entire AWS architecture.  
-2. Deploy using (not done yet):  
+2. Deployment  
 
-   ```bash
-   terraform init
-   terraform apply -auto-approve
+
 
 
 ## 📖 Documentation  
