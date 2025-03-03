@@ -70,7 +70,8 @@ Ensure you have the following before deploying:
 
 ## 📖 Documentation  
 
-All detailed steps, configurations, and deployment instructions can be found in the **documentation section**: [https://numerous-mambo-01f.notion.site/Documentation-AWS-Capstone-Project-My-Personal-Portfolio-Website-1a5e46c88f9f8072a228d243f7b787b3] 📑  
+All detailed steps, configurations, and deployment instructions can be found in the [documentation](https://numerous-mambo-01f.notion.site/Documentation-AWS-Capstone-Project-My-Personal-Portfolio-Website-1a5e46c88f9f8072a228d243f7b787b3) 📑.
+ 
 
 ---
 
